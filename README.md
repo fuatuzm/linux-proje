@@ -161,7 +161,6 @@ chmod +x resim_isleme.sh
 
 ### YouTube Tanıtım Videosu:
 * https://www.youtube.com/watch?v=mV1cZ6OAeEE
-Videoda:
 
 * Kurulum adımları
 
