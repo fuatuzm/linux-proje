@@ -135,6 +135,11 @@ sudo apt update
 sudo apt install imagemagick yad whiptail -y
 ```
 ---
+### Projeyi İndirme
+```
+git clone https://github.com/fuatuzm/linux-proje.git
+cd linux-proje
+```
 
 ### Çalıştırma
 
