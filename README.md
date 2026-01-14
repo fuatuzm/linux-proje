@@ -59,28 +59,28 @@ Kullanıcılar grafiksel menüler aracılığıyla işlemlerini kolayca gerçekl
 #### 🔹 Ana Menü
 Uygulamanın açılış ekranıdır. Kullanıcı yapılacak işlemi buradan seçer.
 
-![Ana Menü](ekran_goruntuleri/ana_ekran.png)
+![Ana Menü](linux_proje/ekran_goruntuleri/ana_ekran.png)
 
 ---
 
 #### 🔹 Boyutlandırma Oranı Girişi
 Seçilen resim için yüzdelik boyutlandırma oranı bu ekranda girilir.
 
-![Boyutlandırma](ekran_goruntuleri/gui_boyut_input.png)
+![Boyutlandırma](linux_proje/ekran_goruntuleri/gui_boyut_input.png)
 
 ---
 
 #### 🔹 Toplu İşlem Menüsü
 Belirlenen klasördeki tüm resimlere aynı işlemin uygulanmasını sağlar.
 
-![Toplu İşlem](ekran_goruntuleri/gui_toplu_islem.png)
+![Toplu İşlem](linux_proje/ekran_goruntuleri/gui_toplu_islem.png)
 
 ---
 
 #### 🔹 İşlem Başarılı Bildirimi
 Resim işleme tamamlandığında kullanıcıya bilgilendirme mesajı gösterilir.
 
-![Başarılı](ekran_goruntuleri/gui_basarili.png)
+![Başarılı](linux_proje/ekran_goruntuleri/gui_basarili.png)
 
 ---
 
@@ -94,35 +94,35 @@ Grafik arayüze göre daha sade bir yapıya sahiptir ancak temel tüm işlevleri
 #### 🔹 Ana Menü
 Uygulamanın açılış ekranıdır. Kullanıcı yapılacak işlemi buradan seçer.
 
-![Ana Menü](ekran_goruntuleri/ana_ekran.png)
+![Ana Menü](linux_proje/ekran_goruntuleri/ana_ekran.png)
 
 ---
 
 #### 🔹 TUI Ana Menü
 Terminal üzerinden yapılacak işlemin seçildiği ana menüdür.
 
-![TUI Menü](ekran_goruntuleri/tui_menu.png)
+![TUI Menü](linux_proje/ekran_goruntuleri/tui_menu.png)
 
 ---
 
 #### 🔹 Dosya Adı Girişi
 Kullanıcı işlem yapılacak resmin adını bu ekranda girer.
 
-![Dosya Seçimi](ekran_goruntuleri/tui_dosya_giris.png)
+![Dosya Seçimi](linux_proje/ekran_goruntuleri/tui_dosya_giris.png)
 
 ---
 
 #### 🔹 Format Seçim Menüsü
 Resmin dönüştürüleceği hedef format bu ekrandan seçilir.
 
-![Format Seçimi](ekran_goruntuleri/tui_format_secim.png)
+![Format Seçimi](linux_proje/ekran_goruntuleri/tui_format_secim.png)
 
 ---
 
 #### 🔹 İşlem Tamamlandı Mesajı
 İşlem başarıyla tamamlandığında kullanıcı bilgilendirilir.
 
-![TUI Başarılı](ekran_goruntuleri/tui_basarili.png)
+![TUI Başarılı](linux_proje/ekran_goruntuleri/tui_basarili.png)
 
 ---
 
